@@ -4,9 +4,9 @@ Desarrollador full-stack en formación. Me interesa construir herramientas prác
 
 ## Stack
 
-**Lenguajes:** Python, JavaScript, HTML, CSS
-**Frameworks / Librerías:** Node.js, PyQt5, tkinter, pandas
-**Otros:** Git, Ollama (IA local), PostgreSQL
+- **Lenguajes:** Python, JavaScript, HTML, CSS
+- **Frameworks / Librerías:** Node.js, PyQt5, tkinter, pandas
+- **Otros:** Git, Ollama (IA local), PostgreSQL
 
 ## Proyectos destacados
 
