@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Matias Lopez</h1>
 
 <p align="center">
-  Desarrollador full-stack en formación · Chile
+  Desarrollador full-stack· Chile
 </p>
 
 <p align="center">
