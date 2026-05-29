@@ -79,7 +79,16 @@ Sitio estático que consume mi fork de la **API-South-Park** a través de un tú
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fmn1057&theme=tokyonight&hide_border=true" alt="GitHub streak" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fmn1057&theme=tokyonight" alt="Profile details" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fmn1057&theme=tokyonight" alt="Lenguajes por repo" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fmn1057&theme=tokyonight" alt="Lenguajes mas usados" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Fmn1057&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" height="180"/>
 </p>
 
 ## Contacto
