@@ -28,11 +28,12 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=flat&logo=qt&logoColor=white)
+![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat&logo=qt&logoColor=white)
 ![tkinter](https://img.shields.io/badge/tkinter-3776AB?style=flat&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
+![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -41,6 +42,12 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 ## Proyectos destacados
+
+### [Claude Voice](https://github.com/Fmn1057/claude-voice)
+
+Asistente de voz para **Linux y Windows** que controla el escritorio completo usando **Claude AI**. Actívalo con `Alt+Z`, transcribe tu voz localmente con **Whisper**, lo envía a Claude con acceso total al sistema y responde por voz con síntesis neural. Soporta sesión multi-turno, captura de pantalla automática y control de mouse, teclado, ventanas y aplicaciones.
+
+`Python` · `Claude Agent SDK` · `faster-whisper` · `edge-tts` · `PyQt6` · `evdev` · `Linux` · `Windows`
 
 ### [Bencinas Chile · Proyecti-gasolinera](https://github.com/Fmn1057/Proyecti-gasolinera)
 
@@ -68,6 +75,7 @@ Sitio estático que consume mi fork de la **API-South-Park** a través de un tú
 
 ## En qué estoy trabajando ahora
 
+- Desarrollando **Claude Voice**: asistente de voz con IA que controla el escritorio completo en Linux y Windows.
 - Aprendiendo más de **PostgreSQL** y diseño de esquemas para reemplazar persistencia en JSON cuando el volumen crece.
 - Explorando UI más pulida en mis apps de escritorio: animaciones, snap entre ventanas, drag & drop más fino.
 - Mejorando empaquetado con **PyInstaller** para distribuir mis apps de escritorio sin pedir al usuario instalar Python.
@@ -78,7 +86,7 @@ Sitio estático que consume mi fork de la **API-South-Park** a través de un tú
 <p align="center">
   <img src="https://img.shields.io/github/followers/Fmn1057?style=for-the-badge&logo=github&logoColor=white&color=1a2a4a&labelColor=24292f&label=Seguidores" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/Fmn1057?style=for-the-badge&logo=github&logoColor=white&color=1a2a4a&labelColor=24292f&label=Stars&affiliations=OWNER" alt="Stars"/>
-  <img src="https://img.shields.io/badge/Repos-5-1a2a4a?style=for-the-badge&logo=github&logoColor=white&labelColor=24292f" alt="Repos"/>
+  <img src="https://img.shields.io/badge/Repos-6-1a2a4a?style=for-the-badge&logo=github&logoColor=white&labelColor=24292f" alt="Repos"/>
 </p>
 
 <p align="center">
