@@ -5,13 +5,14 @@
 </p>
 
 <p align="center">
-  Construyo herramientas prácticas que resuelven problemas reales — desde apps de escritorio para automatizar operaciones hasta sitios web que consumen APIs propias.
+  Programar es lo que más disfruto: la mayoría de estos proyectos nacieron en mi tiempo libre, resolviendo algo que me molestaba o que tenía curiosidad por entender.
 </p>
 
 ---
 
 ## Sobre mí
 
+- Programo por gusto, no solo por trabajo — abro el editor también los fines de semana.
 - Aprendo construyendo: cada uno de mis repos resuelve un problema concreto que tuve, no es un tutorial reescrito.
 - Me interesa especialmente la **integración de IA local** (Ollama) para casos donde mandar datos a la nube no es una opción.
 - Me gusta automatizar flujos repetitivos y entender qué pasa por debajo cuando algo se rompe.
