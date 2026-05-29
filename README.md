@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Matias Lopez</h1>
 
 <p align="center">
-  Desarrollador full-stack en formación · Operaciones NOC/SOC · Chile
+  Desarrollador full-stack en formación
 </p>
 
 <p align="center">
