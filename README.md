@@ -88,7 +88,8 @@ Sitio estático que consume mi fork de la **API-South-Park** a través de un tú
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Fmn1057&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fmn1057&theme=tokyonight&utcOffset=-4" alt="Hora mas productiva" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fmn1057&theme=tokyonight" alt="Estadisticas" height="180"/>
 </p>
 
 ## Contacto
