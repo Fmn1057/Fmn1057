@@ -14,7 +14,8 @@
 
 - Programo por gusto, no solo por trabajo — abro el editor también los fines de semana.
 - Aprendo construyendo: cada uno de mis repos resuelve un problema concreto que tuve, no es un tutorial reescrito.
-- Me interesa especialmente la **integración de IA local** (Ollama) para casos donde mandar datos a la nube no es una opción.
+- Me gustan los proyectos full-stack: desde el diseño de la API hasta el detalle visual de la UI.
+- Disfruto trabajar con **APIs públicas**, **mapas interactivos**, drag & drop y cualquier interacción que se sienta bien al usarla.
 - Me gusta automatizar flujos repetitivos y entender qué pasa por debajo cuando algo se rompe.
 - Stack principal: **Python** para back-end y desktop, **JavaScript / Node.js** para web.
 
@@ -67,9 +68,10 @@ Sitio estático que consume mi fork de la **API-South-Park** a través de un tú
 
 ## En qué estoy trabajando ahora
 
-- Refinando la integración con Ollama para reducir falsos positivos en la clasificación de texto.
 - Aprendiendo más de **PostgreSQL** y diseño de esquemas para reemplazar persistencia en JSON cuando el volumen crece.
+- Explorando UI más pulida en mis apps de escritorio: animaciones, snap entre ventanas, drag & drop más fino.
 - Mejorando empaquetado con **PyInstaller** para distribuir mis apps de escritorio sin pedir al usuario instalar Python.
+- Curioseando con **React** para empezar a portar algunos de mis frontends estáticos.
 
 ## Estadísticas
 
