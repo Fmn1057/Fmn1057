@@ -73,12 +73,13 @@ Sitio estático que consume mi fork de la **API-South-Park** a través de un tú
 ## Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fmn1057&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fmn1057&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="170"/>
+  <img src="https://img.shields.io/github/followers/Fmn1057?style=for-the-badge&logo=github&logoColor=white&color=1a2a4a&labelColor=24292f&label=Seguidores" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Fmn1057?style=for-the-badge&logo=github&logoColor=white&color=1a2a4a&labelColor=24292f&label=Stars&affiliations=OWNER" alt="Stars"/>
+  <img src="https://img.shields.io/badge/Repos-5-1a2a4a?style=for-the-badge&logo=github&logoColor=white&labelColor=24292f" alt="Repos"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Fmn1057&theme=tokyonight&hide_border=true" alt="GitHub streak" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fmn1057&theme=tokyonight&hide_border=true" alt="GitHub streak" height="170"/>
 </p>
 
 ## Contacto
