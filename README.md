@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Matias Lopez</h1>
 
 <p align="center">
-  Desarrollador full-stack en formación
+  Desarrollador full-stack en formación · Chile
 </p>
 
 <p align="center">
@@ -12,9 +12,9 @@
 
 ## Sobre mí
 
-- Actualmente trabajo en operaciones **NOC/SOC**, donde he automatizado parte del flujo diario de tratamiento de alertas.
 - Aprendo construyendo: cada uno de mis repos resuelve un problema concreto que tuve, no es un tutorial reescrito.
 - Me interesa especialmente la **integración de IA local** (Ollama) para casos donde mandar datos a la nube no es una opción.
+- Me gusta automatizar flujos repetitivos y entender qué pasa por debajo cuando algo se rompe.
 - Stack principal: **Python** para back-end y desktop, **JavaScript / Node.js** para web.
 
 ## Stack
@@ -54,7 +54,7 @@ App de escritorio Windows con **casillas flotantes** que organizan los archivos 
 
 ### [Sistema de Gestión de Alertas](https://github.com/Fmn1057/Resolucion-de-alertas)
 
-Herramienta interna NOC/SOC que estandariza el flujo de tratamiento de alertas: pega texto bruto, devuelve **Short Description / Classification / Comment** para el ticket. Base de plantillas editable en Excel, lectura de correos Outlook `.msg`, reportes en PowerPoint y asistencia opcional con Ollama (con detección de *safety refusals* y reintento).
+Herramienta de escritorio que estandariza el flujo de tratamiento de alertas de monitoreo: pega texto bruto, devuelve **Short Description / Classification / Comment** listos para el ticket. Base de plantillas editable en Excel, lectura de correos Outlook `.msg`, reportes en PowerPoint y asistencia opcional con Ollama (con detección de *safety refusals* y reintento).
 
 `Python` · `tkinter` · `pandas` · `openpyxl` · `python-pptx` · `Ollama`
 
@@ -66,7 +66,7 @@ Sitio estático que consume mi fork de la **API-South-Park** a través de un tú
 
 ## En qué estoy trabajando ahora
 
-- Refinando la integración con Ollama en proyectos NOC/SOC para reducir falsos positivos en la clasificación.
+- Refinando la integración con Ollama para reducir falsos positivos en la clasificación de texto.
 - Aprendiendo más de **PostgreSQL** y diseño de esquemas para reemplazar persistencia en JSON cuando el volumen crece.
 - Mejorando empaquetado con **PyInstaller** para distribuir mis apps de escritorio sin pedir al usuario instalar Python.
 
